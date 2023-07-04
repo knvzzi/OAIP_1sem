@@ -1,0 +1,7 @@
+﻿  лаб 5(2).cpp
+C:\Users\tatya\OneDrive\Рабочий стол\ПОИТ\ОАП\лаб 5\лаб 5(2)\лаб 5(2).cpp(4,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+C:\Users\tatya\OneDrive\Рабочий стол\ПОИТ\ОАП\лаб 5\лаб 5(2)\лаб 5(2).cpp(6,33): warning C4305: инициализация: усечение из "double" в "float"
+C:\Users\tatya\OneDrive\Рабочий стол\ПОИТ\ОАП\лаб 5\лаб 5(2)\лаб 5(2).cpp(9,13): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\tatya\OneDrive\Рабочий стол\ПОИТ\ОАП\лаб 5\лаб 5(2)\лаб 5(2).cpp(10,18): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\tatya\OneDrive\Рабочий стол\ПОИТ\ОАП\лаб 5\лаб 5(2)\лаб 5(2).cpp(12,9): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+  лаб 5(2).vcxproj -> C:\Users\tatya\OneDrive\Рабочий стол\ПОИТ\ОАП\лаб 5\Debug\лаб 5(2).exe

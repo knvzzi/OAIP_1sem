@@ -1,0 +1,4 @@
+﻿  лаб 6.cpp
+C:\Users\tatya\OneDrive\Рабочий стол\ПОИТ\ОАП\лаб 6\лаб 6\лаб 6.cpp(6,18): warning C4305: инициализация: усечение из "double" в "float"
+C:\Users\tatya\OneDrive\Рабочий стол\ПОИТ\ОАП\лаб 6\лаб 6\лаб 6.cpp(6,27): warning C4305: инициализация: усечение из "double" в "float"
+  лаб 6.vcxproj -> C:\Users\tatya\OneDrive\Рабочий стол\ПОИТ\ОАП\лаб 6\Debug\лаб 6.exe
